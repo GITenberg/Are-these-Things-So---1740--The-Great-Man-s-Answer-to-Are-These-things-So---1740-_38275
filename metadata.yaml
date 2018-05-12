@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39363'
     url: http://www.gutenberg.org/2009/agents/39363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38275#Are-these-Things-So---1740--The-Great-Man-s-Answer-to-Are-These-things-So---1740-
 gutenberg_issued: '2011-12-11'
 gutenberg_type: Text
 identifiers:
