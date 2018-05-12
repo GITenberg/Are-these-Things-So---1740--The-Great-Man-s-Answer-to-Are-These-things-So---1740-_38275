@@ -1,0 +1,38 @@
+_repo: Are-these-Things-So---1740--The-Great-Man-s-Answer-to-Are-These-things-So---1740-_38275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, James
+    alias: Miller, J. (James)
+    birthdate: 1706
+    deathdate: 1744
+    gutenberg_agent_id: '42023'
+    url: http://www.gutenberg.org/2009/agents/42023
+  editor:
+    agent_name: Gordon, I. R. F.
+    alias: Gordon, Ian
+    birthdate: 1939
+    gutenberg_agent_id: '39363'
+    url: http://www.gutenberg.org/2009/agents/39363
+description: ''
+gutenberg_issued: '2011-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38275'
+  lccn: '72611788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1727-1760 -- Poetry'
+- !lcsh 'Walpole, Robert, Earl of Orford, 1676-1745 -- Poetry'
+- !lcsh 'Walpole, Robert, Earl of Orford, 1676-1745 -- Early works to 1800'
+- !lcsh 'Pope, Alexander, 1688-1744 -- Poetry'
+- !lcc 'PR'
+title: 'Are these Things So? (1740) The Great Man''s Answer to Are These things So:
+  (1740)'
+url: http://www.gutenberg.org/ebooks/38275
